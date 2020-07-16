@@ -6,8 +6,8 @@ using namespace std;
 
 void doanimation(){
 
-    int a = 10;
-    int b = 20;
+    int a = 100;
+    int b = 600;
 
         cout << "                                                      " << endl;
         cout << "             CONNECTING                                         " << endl;

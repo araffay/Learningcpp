@@ -90,10 +90,10 @@ int main(){
         cout << "                                                      " << endl;
         cout << "                                                      " << endl;
         cout << "                                                      " << endl;
-        cout << "                YOU GUYS                                              " << endl;
-        cout << "              ARE READY TO                                               " << endl;
-        cout << "                   GO!                                       " << endl;
-        cout << "                                                      " << endl;
+        cout << "                  SORRY!                                            " << endl;
+        cout << "           YOUR FATE DOESN'T ALLOW                                                  " << endl;
+        cout << "              YOU BOTH TO BE                                           " << endl;
+        cout << "                 TOGETHER                                     " << endl;
         cout << "                                                      " << endl;
 
 
